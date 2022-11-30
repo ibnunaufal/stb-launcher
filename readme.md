@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/ibnunaufal/stb-launcher/raw/master/Logo.png)
+![Logo](https://github.com/ibnunaufal/stb-launcher/raw/master/Logo-new.png)
 
 
 # Absensi & Launcher Android Box
