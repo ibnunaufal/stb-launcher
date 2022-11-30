@@ -1,10 +1,24 @@
-PSP Launcher <br/>
-Last updated: 2022-10-11 09:50:10 <br/>
-Last Version: 0.0.4 <br/>
-Use latest version that located 'Absensi' folder then on highest number folder
-<br/>
-<br/>
-STB Absensi <br/>
-Last updated: 2022-10-11 09:50:10 <br/>
-Last Version: 0.0.13 <br/>
-Use latest version that located 'Launcher' folder then on highest number folder
+
+# Absensi & Launcher Android Box
+
+Repository ini adalah version control dari Absensi & Launcher.
+Tiap folder terdiri folder History & Latest, untuk download versi terbaru bisa download file dari folder Latest
+
+
+
+Tiap folder terdiri folder History & Latest, untuk download versi terbaru bisa download file dari folder Latest
+
+
+## Versi Terakhir
+
+#### Absensi v0.0.1
+
+
+- Terbaru
+- Edit
+
+
+#### Launcher v0.0.1
+
+- Edit
+
