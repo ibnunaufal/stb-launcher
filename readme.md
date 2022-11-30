@@ -1,4 +1,7 @@
 
+![Logo](https://github.com/ibnunaufal/stb-launcher/raw/master/Logo.png)
+
+
 # Absensi & Launcher Android Box
 
 Repository ini adalah version control dari Absensi & Launcher.
