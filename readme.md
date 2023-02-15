@@ -16,8 +16,8 @@ Tiap folder terdiri folder History & Latest, untuk download versi terbaru bisa d
 - Clear cache
 [Download Absensi Versi Terbaru Disini](https://raw.githubusercontent.com/ibnunaufal/stb-launcher/master/Absensi/Latest/app-debug.apk "Download Absensi Versi Terbaru Disini")
 ---
-#### Launcher v0.0.4
+#### Launcher v0.0.5
 
-- Adjust on some device (MX Set Top Box)
+- New Feature Uninstall & Re-install App
 [Download Launcher Versi Terbaru Disini](https://raw.githubusercontent.com/ibnunaufal/stb-launcher/master/Launcher/Latest/app-release.apk "Download Launcher Versi Terbaru Disini")
 ---
