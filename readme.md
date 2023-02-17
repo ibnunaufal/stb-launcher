@@ -14,12 +14,14 @@ Tiap folder terdiri folder History & Latest, untuk download versi terbaru bisa d
 - Optimize network check
 - Fix force close
 - Other setting's menu
-- Clear cache
-[Download Absensi Versi Terbaru Disini](https://raw.githubusercontent.com/ibnunaufal/stb-launcher/master/Absensi/Latest/app-debug.apk "Download Absensi Versi Terbaru Disini")
+- Clear cache <br />
+[Download Absensi Versi Terbaru Disini](https://raw.githubusercontent.com/ibnunaufal/stb-launcher/master/Absensi/Latest/app-debug.apk "Download Absensi Versi Terbaru Disini")<br />
+[Detail perubahan](https://github.com/ibnunaufal/stb-launcher/tree/master/Absensi "Detail perubahan")
 ---
 #### Launcher v0.0.6
 
 - New Feature Uninstall & Re-install App
-- New usefull shortcut on press Back
-[Download Launcher Versi Terbaru Disini](https://raw.githubusercontent.com/ibnunaufal/stb-launcher/master/Launcher/Latest/app-release.apk "Download Launcher Versi Terbaru Disini")
+- New usefull shortcut on press Back<br />
+[Download Launcher Versi Terbaru Disini](https://raw.githubusercontent.com/ibnunaufal/stb-launcher/master/Launcher/Latest/app-release.apk "Download Launcher Versi Terbaru Disini")<br />
+[Detail perubahan](https://github.com/ibnunaufal/stb-launcher/tree/master/Launcher "Detail perubahan")
 ---
